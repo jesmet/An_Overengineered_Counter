@@ -1,0 +1,11 @@
+cat << 'EOF' > .gitignore
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+.settings/language.settings.xml
+EOF
