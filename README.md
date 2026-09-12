@@ -16,6 +16,10 @@
 ### Project Description
 This was our attempt to make a counter with the thought process that we are over qualified engineers with unlimited time and an Ego to show off. But it ended up as rechening of our egos.
 
+https://drive.google.com/file/d/1CnKH9MZ3NA53DRrbJwQhnHmOW1jGD7IG/view
+https://drive.google.com/file/d/1oN9cKjb0bL8xs_eQiSbnDtoehMB7VRRW/view
+Videos explaining and demonstrating the thing.
+
 ### The Problem (that doesn't exist)
 All counters and simple and boring there is nothing fascinating about them. We wanted to change that and bring new blood into the industry. And we hope to do this with our counter. Which uses sophisticated algorithm to predict is the button press should be counted or not.
 
